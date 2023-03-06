@@ -1,2 +1,16 @@
-# This is an organics food app
-## This project use react native
+# App react-native com Expo
+### Projeto básico para testar a ferramenta Expo para bundle de aplicações pequenas com o react-native
+## Como testar esse aplicativo?
+
+1. **Primeiro passo**: Instalar as dependências
+    ~~~
+    npm install
+    ~~~
+2. **Segundo passo**: Iniciar o Expo
+    ~~~
+    npx expo start
+    ~~~
+    
+ ## Quer saber mais sobre o Expo?
+ 
+ Acesse o site oficial e saiba mais. <a href="https://expo.dev/" target="_blank">Expo</a>.

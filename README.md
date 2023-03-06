@@ -13,4 +13,4 @@
     
  ## Quer saber mais sobre o Expo?
  
- Acesse o site oficial e saiba mais. <a href="https://expo.dev/" target="_blank">Expo</a>.
+<div> Acesse o site oficial e saiba mais. <a href="https://expo.dev/" target="_blank">Expo</a>.</div>
